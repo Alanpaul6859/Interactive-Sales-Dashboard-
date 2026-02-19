@@ -30,12 +30,12 @@ The goal of this project is to transform raw sales data into meaningful business
 
 Category	                                                        Tools Used
 
-Language	                                                        Python
+Language	-                                                        Python
 
-Data Handling       	                                            Pandas, NumPy
+Data Handling  -     	                                            Pandas, NumPy
 
-Visualization	                                                    Matplotlib, Seaborn
+Visualization	 -                                                   Matplotlib, Seaborn
 
-Notebook	                                                        Jupyter Notebook
+Notebook	      -                                                  Jupyter Notebook
 
-Dataset	                                                          CSV Sales Dataset
+Dataset	  -                                                        CSV Sales Dataset
