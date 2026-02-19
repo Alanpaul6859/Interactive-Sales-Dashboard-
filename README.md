@@ -28,7 +28,7 @@ The goal of this project is to transform raw sales data into meaningful business
 
 🛠️ Tech Stack
 
-Category	                                                        Tools Used
+Category	                    /                                   Tools Used
 
 Language	-                                                        Python
 
