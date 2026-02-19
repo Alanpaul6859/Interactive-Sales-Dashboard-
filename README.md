@@ -6,26 +6,34 @@ This project simulates a real-world business intelligence solution where decisio
 
 
 
+
+
 🚀 Project Objective
 
 The goal of this project is to transform raw sales data into meaningful business insights by:
 
-Understanding revenue patterns
+1. Understanding revenue patterns
 
-Identifying top performing products
+2. Identifying top performing products
 
-Tracking customer purchasing behavior
+3. Tracking customer purchasing behavior
 
-Monitoring monthly and regional sales trends
+4. Monitoring monthly and regional sales trends
 
-Supporting data-driven decision making
+5. Supporting data-driven decision making
 
 
 
 🛠️ Tech Stack
+
 Category	                Tools Used
+
 Language	                Python
+
 Data Handling       	    Pandas, NumPy
+
 Visualization	            Matplotlib, Seaborn
+
 Notebook	                Jupyter Notebook
+
 Dataset	                  CSV Sales Dataset
