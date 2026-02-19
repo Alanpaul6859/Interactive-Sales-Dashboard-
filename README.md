@@ -5,6 +5,7 @@ An interactive data analytics dashboard built using Python to analyze sales tren
 This project simulates a real-world business intelligence solution where decision-makers can track KPIs and identify growth opportunities.
 
 
+
 🚀 Project Objective
 
 The goal of this project is to transform raw sales data into meaningful business insights by:
@@ -18,6 +19,7 @@ Tracking customer purchasing behavior
 Monitoring monthly and regional sales trends
 
 Supporting data-driven decision making
+
 
 
 🛠️ Tech Stack
